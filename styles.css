@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #EBE9E1;
+    color: #E43D12;
+}
+
+button{
+    background-color: #EFB11D;
+}
