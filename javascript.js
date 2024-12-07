@@ -38,7 +38,7 @@ slider.addEventListener("change", () => { // This is the slider event listener
 
 });
 
-//text changing
+//text changing for slider value
 
 
 
@@ -49,5 +49,4 @@ slider.oninput = function(){
 }
 
 
-//slider event listener
 
