@@ -79,12 +79,8 @@ input{
 
 
 
-/* grid */
+/* grid size and colors */
 
-:root {
-    --grid-cols: 1;
-    --grid-rows: 1;
-  }
 
 .grid{
     width: 500px;
