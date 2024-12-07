@@ -50,15 +50,10 @@ button{
     width: 100%;
     padding: 10px 20px;
     border-radius: 5px;
-    border: 1px solid;
-    background-color: #EBE9E1;
-    color: #E43D12;
+    background-color: #E43D12;
 }
 
-button.active{
-    background-color: #E43D12;
-    color: #EBE9E1;
-}
+
 
 .size-value{
     margin-bottom: -20px;
